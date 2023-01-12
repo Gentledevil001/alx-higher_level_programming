@@ -1,1 +1,1 @@
-Readme file for 0x02-python-import_modules
+This project is geared towards mastering the basics of concepts using set and dictionaries in python.
